@@ -51,7 +51,7 @@
             <img class="media-icon" src="@/assets/weibo.png" alt />
             <span>
               Weibo:
-              <a href="https://https://weibo.com/u/2981748155">@热带阿叔</a>
+              <a href="https://weibo.com/u/2981748155">@热带阿叔</a>
             </span>
           </div>
           <div class="social-media-card">
