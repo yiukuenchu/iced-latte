@@ -23,7 +23,7 @@
           backgroundColor="#C03237"
           textColor="#FFFFFF"
           icon="sspai.png"
-          link="https://beta.sspai.com/u/i668zmn5/posts"
+          link="https://beta.sspai.com/u/uncle/posts"
         />
         <Card
           msg="Blogs on Medium"
