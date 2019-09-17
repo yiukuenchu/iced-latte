@@ -62,10 +62,10 @@
             </span>
           </div>
           <div class="social-media-card">
-            <img class="media-icon" src="@/assets/twitter.png" alt />
+            <img class="media-icon" src="@/assets/telegram.png" alt />
             <span>
               Twitter:
-              <a href="https://twitter.com/yiukuenchu">@yiukuenchu</a>
+              <a href="https://t.me/yiukuenchu">@yiukuenchu</a>
             </span>
           </div>
         </div>
