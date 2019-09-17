@@ -64,7 +64,7 @@
           <div class="social-media-card">
             <img class="media-icon" src="@/assets/telegram.png" alt />
             <span>
-              Twitter:
+              Telegram:
               <a href="https://t.me/yiukuenchu">@yiukuenchu</a>
             </span>
           </div>
