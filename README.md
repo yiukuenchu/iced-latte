@@ -5,6 +5,6 @@
 ## Related
 
 1. Original blog: <https://archive.yiukuenchu.me>
-2. Articles at sspai: <https://beta.sspai.com/u/i668zmn5/posts>
+2. Articles at sspai: <https://beta.sspai.com/u/uncle/posts>
 <!-- 3. Medium publication: <https://medium.com/spencerweekly> -->
 
