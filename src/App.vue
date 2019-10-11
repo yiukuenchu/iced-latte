@@ -3,7 +3,7 @@
     <div id="container">
       <img id="avatar" alt="avatar" src="./assets/logo.jpg" />
       <h1>Michael Chu</h1>
-      <h2>👨‍💻I wrote I came I conquered.</h2>
+      <h2>👨‍💻I came; I saw; I conquered bugs.</h2>
       <span>
         * living and working in Shenzhen, China.
       </span>
