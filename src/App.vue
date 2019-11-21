@@ -25,13 +25,13 @@
           icon="sspai.png"
           link="https://beta.sspai.com/u/uncle/posts"
         />
-        <Card
+        <!-- <Card
           msg="Blogs on Medium"
           backgroundColor="#1AA77D"
           textColor="#FFFFFF"
           icon="medium.png"
           link="https://medium.com/coffee-minutes"
-        />
+        /> -->
       </div>
 
       <div id="others">
