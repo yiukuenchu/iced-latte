@@ -47,13 +47,13 @@
               >@yiukuenchu</a>
             </span>
           </div>
-          <div class="social-media-card">
+          <!-- <div class="social-media-card">
             <img class="media-icon" src="@/assets/weibo.png" alt />
             <span>
               Weibo:
               <a href="https://weibo.com/u/2981748155">@热带阿叔</a>
             </span>
-          </div>
+          </div> -->
           <div class="social-media-card">
             <img class="media-icon" src="@/assets/instagram.png" alt />
             <span>
