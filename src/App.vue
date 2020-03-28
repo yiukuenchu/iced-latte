@@ -103,12 +103,14 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css?family=Miriam+Libre&display=swap');
+
 body {
   margin: 0;
 }
 
 #app {
-  font-family: 'Fira Mono', sans-serif;
+  font-family: 'Miriam Libre', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #141313;
