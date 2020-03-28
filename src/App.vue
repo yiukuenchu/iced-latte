@@ -109,6 +109,7 @@ export default {
 @import url('https://fonts.googleapis.com/css?family=Miriam+Libre|Rubik&display=swap');
 
 body {
+  background-color: #f5f4f1;
   margin: 0;
 }
 
