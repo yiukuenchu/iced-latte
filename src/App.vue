@@ -103,7 +103,7 @@ export default {
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css?family=Miriam+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Miriam+Libre|Rubik&display=swap');
 
 body {
   margin: 0;
@@ -133,6 +133,7 @@ body {
 }
 
 h1 {
+  font-family: 'Rubik', sans-serif;
   font-weight: 700;
   font-size: 28px;
 }
