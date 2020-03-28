@@ -6,6 +6,7 @@
       <br>
       <span>开发 / 生产力 / 手机摄影 / 终生学习</span>
       <br>
+      <br>
       <span>
         * I enjoy codes, podcasts, F1 and Tech.
       </span>
@@ -146,6 +147,10 @@ h2 {
   padding: 20px 0;
 }
 
+h3{
+  font-family: 'Miriam Libre', sans-serif;
+}
+
 hr {
   width: 100px;
   margin: 60px 0;
@@ -172,6 +177,10 @@ span {
   width: 30px;
   height: 30px;
   padding-right: 20px;
+}
+
+p{
+  font-family: 'Miriam Libre', sans-serif;
 }
 
 a {
