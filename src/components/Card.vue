@@ -29,6 +29,8 @@ export default {
 </script>
 
 <style scoped>
+@import url('https://fonts.googleapis.com/css?family=Miriam+Libre&display=swap');
+
 .card {
   border-radius: 10px;
   max-width: 320px;
@@ -54,6 +56,7 @@ export default {
 }
 
 #title {
+  font-family: 'Miriam Libre', sans-serif;
   font-weight: 700;
   font-size: 20px;
 }
