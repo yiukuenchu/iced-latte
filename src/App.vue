@@ -15,15 +15,15 @@
       <h3>Featured Projects</h3>
       <div id="card-container">
         <Card
-          msg="GitHub Projects"
+          msg="GitHub"
           backgroundColor="#24292E"
           textColor="#FFFFFF"
           icon="github.png"
           link="https://github.com/yiukuenchu"
         />
         <Card
-          msg="Articles on sspai"
-          backgroundColor="#C03237"
+          msg="少数派 sspai"
+          backgroundColor="#BC1820"
           textColor="#FFFFFF"
           icon="sspai.png"
           link="https://beta.sspai.com/u/uncle/posts"
