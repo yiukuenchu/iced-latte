@@ -65,7 +65,7 @@
             <img class="media-icon" src="@/assets/telegram.png" alt />
             <span>
               Telegram:
-              <a href="https://t.me/yiukuenchu">@yiukuenchu</a>
+              <a href="https://t.me/universe_daily">Universe Daily | 太空日报</a>
             </span>
           </div>
         </div>
