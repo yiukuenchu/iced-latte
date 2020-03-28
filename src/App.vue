@@ -3,9 +3,10 @@
     <div id="container">
       <img id="avatar" alt="avatar" src="./assets/logo.jpg" />
       <h1>Michael Chu</h1>
-      <h2>开发 / 终生学习 / 手机摄影 / 生产力</h2>
+      <br>
+      <span>开发 / 生产力 / 手机摄影 / 终生学习</span>
       <span>
-        * I enjoy coding, podcasts, F1 and Tech.
+        * I enjoy codes, podcasts, F1 and Tech.
       </span>
 
       <hr id="top-hr" />
