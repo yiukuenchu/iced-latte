@@ -3,9 +3,9 @@
     <div id="container">
       <img id="avatar" alt="avatar" src="./assets/logo.jpg" />
       <h1>Michael Chu</h1>
-      <h2>👨‍💻I came; I saw; I conquered bugs.</h2>
+      <h2>开发 / 终生学习 / 手机摄影 / 生产力</h2>
       <span>
-        * living and working in Shenzhen, China.
+        * I enjoy coding, podcasts, watching Netflix and Youtube.
       </span>
 
       <hr id="top-hr" />
@@ -110,7 +110,7 @@ body {
 }
 
 #app {
-  font-family: 'Miriam Libre', sans-serif;
+  font-family: 'Rubik', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #141313;
@@ -133,7 +133,7 @@ body {
 }
 
 h1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Miriam Libre', sans-serif;
   font-weight: 700;
   font-size: 28px;
 }
