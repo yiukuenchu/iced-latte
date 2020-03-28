@@ -5,6 +5,7 @@
       <h1>Michael Chu</h1>
       <br>
       <span>开发 / 生产力 / 手机摄影 / 终生学习</span>
+      <br>
       <span>
         * I enjoy codes, podcasts, F1 and Tech.
       </span>
