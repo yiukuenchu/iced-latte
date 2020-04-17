@@ -1,10 +1,10 @@
 <template>
   <div id="app" class=".slide-in-bottom">
     <div id="container">
-      <img id="avatar" alt="avatar" src="./assets/logo.jpg" />
+      <img id="avatar" alt="avatar" src="./assets/logo1.jpg" />
       <h1>Michael Chu</h1>
       <br>
-      <span>开发 / 生产力 / 手机摄影 / 终生学习</span>
+      <span>开发 / 工具控 / 手机摄影 / 终生学习</span>
       <br>
       <br>
       <span>
@@ -77,8 +77,8 @@
         <p>
           Previous blog posts have been archived at:
           <a
-            href="https://archive.yiukuenchu.me"
-          >https://archive.yiukuenchu.me</a>. Thank you for following me.
+            href="https://archive.yiukuenchu.codes"
+          >https://archive.yiukuenchu.codes</a>. Thank you for following me.
         </p>
       </div>
     </div>
