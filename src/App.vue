@@ -4,7 +4,7 @@
       <img id="avatar" alt="avatar" src="./assets/logo1.jpg" />
       <h1>Michael Chu</h1>
       <br>
-      <span>开发 / 工具控 / 手机摄影 / 终生学习</span>
+      <span>开发 / 数字极简 / 手机摄影 / 终生学习</span>
       <br>
       <br>
       <span>
