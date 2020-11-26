@@ -4,7 +4,7 @@
 
 ## Related
 
-1. Original blog: <https://archive.yiukuenchu.me>
+1. Original blog: <https://archive.yiukuenchu.codes>
 2. Articles at sspai: <https://beta.sspai.com/u/uncle/posts>
 <!-- 3. Medium publication: <https://medium.com/spencerweekly> -->
 
